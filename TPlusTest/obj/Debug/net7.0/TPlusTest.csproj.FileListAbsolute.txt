@@ -1,0 +1,15 @@
+C:\MyProjects\C#\TPlusTest\TPlusTest\bin\Debug\net7.0\TPlusTest.exe
+C:\MyProjects\C#\TPlusTest\TPlusTest\bin\Debug\net7.0\TPlusTest.deps.json
+C:\MyProjects\C#\TPlusTest\TPlusTest\bin\Debug\net7.0\TPlusTest.runtimeconfig.json
+C:\MyProjects\C#\TPlusTest\TPlusTest\bin\Debug\net7.0\TPlusTest.dll
+C:\MyProjects\C#\TPlusTest\TPlusTest\bin\Debug\net7.0\TPlusTest.pdb
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.csproj.AssemblyReference.cache
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.AssemblyInfoInputs.cache
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.AssemblyInfo.cs
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.csproj.CoreCompileInputs.cache
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.dll
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\refint\TPlusTest.dll
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.pdb
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\TPlusTest.genruntimeconfig.cache
+C:\MyProjects\C#\TPlusTest\TPlusTest\obj\Debug\net7.0\ref\TPlusTest.dll
